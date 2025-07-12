@@ -1,0 +1,17 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fdfdfd;
+}
+blockquote {
+  font-style: italic;
+  color: #555;
+}
+
+@media screen and (max-width: 450px) {
+
+  .mo {
+    width: 50vw;
+    height: 50vh;
+  }
+  
+}
